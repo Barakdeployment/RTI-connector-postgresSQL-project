@@ -1,4 +1,5 @@
 from enum import Enum
+#todo: why "2" in file name?
 
 class classification_name(Enum):
     NOGA = "NOGA"
